@@ -10,4 +10,5 @@ Belajar kelas 'Belajar Dasar Git dengan GitHub'. (Progres 38%), apobae yang dipe
 ### Sebelumnyo jugo udah belajar kelas:  
 #### - Pengenalan ke Logika Pemrograman (Programming Logic 101)  
 #### - Memulai Dasar Pemrograman untuk Menjadi Pengembang Software  
-Deadline nyo sampai tanggal 15 Agustus 2022 untuk materi-materi diatas
+Deadline nyo sampai tanggal 15 Agustus 2022 untuk materi-materi diatas  
+contoh untuk menggunakan fitur branch
